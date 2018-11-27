@@ -1,7 +1,12 @@
-## This is our playbook
+# This is our playbook
+The purpose of this playbook is to bring **clarity** and **alignment**.
+You should never have to guess what we do, what we expect from you, or how to do certain things.
+This playbook provides answers and some directions - enough to help you navigate the chaos successfully.
 
+We are constantly evolving as a company. This playbook evolves with with us.
 
-**The Core** - Things you should know and understand well
+## Core
+This is where everyone begins. Our reason for existance, what we do, what we stand for and and are values. Make sure you understand them well.
 
 [Who Are We](/playbook/whoarewe)
 
@@ -13,8 +18,11 @@
 
 [What We Value in our Associates](/playbook/whatwevalueinassociates)
 
-[Who Does What](/playbook/whodoeswhat)
-
 [Who Inspires Us](/playbook/whoinspiresus)
 
 [Vocabulary](/playbook/vocabulary)
+
+
+## Navigating the Maze
+[Who Does What](/playbook/whodoeswhat)
+
