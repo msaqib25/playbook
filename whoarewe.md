@@ -19,11 +19,11 @@ We work with 2 primary customer segments
 
 **Startups:**
 There are two types of startups that we focus on:
-	1. Seed startups that need help in developing a MVP (minimum viable product). (We call them internally as Profile 1)
-	2. VC funded startups that have demonstrated market fitness and need to help to scale & augment their internal development teams. (Profile 2)
+1. Seed startups that need help in developing a MVP (minimum viable product). (We call them internally as Profile 1)
+2. VC funded startups that have demonstrated market fitness and need to help to scale & augment their internal development teams. (Profile 2)
 
 **Enterprises:**
-1. Mid-market / Fortune 1000 companies that need an innovation delivery partner to help build a platform or a service to address a marketplace opportunity. (Profile 3)
+3. Mid-market / Fortune 1000 companies that need an innovation delivery partner to help build a platform or a service to address a marketplace opportunity. (Profile 3)
 
 Our main customer base is in North America. However, as a global business we regularly see opportunities come from UK, Europe, Middle-East, South Africa and New Zealand.We have a pretty good web and digital services business in Pakistan.
 
