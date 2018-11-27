@@ -1,6 +1,6 @@
 # Who Are We?
 
-**We are an Innovation Delivery Agency**
+## We are an Innovation Delivery Agency
 
 - We help our customers **build** the future that they imagine for their customers.
 - We **build** the digital road map that makes sure they stay relevant in the marketplace.
@@ -11,7 +11,7 @@
 
 Creative Chaos **help's you build** the future.
 
-# Who Are Our Customers?
+## Who Are Our Customers?
 
 We work with 2 primary customer segments
 - Startups
@@ -43,3 +43,15 @@ Our customers survival depends on our ability to deliver.Our survival depends on
 **It is our fundamental belief that innovation can only be delivered through ruthless commitment, grit and resolve of the team.**
 
 _“We help our customers transform their ideas into digital and technology solutions through our proven innovation delivery framework. Our process requires us to commit to the idea and take ownership and responsibility. Every member in the team makes successful delivery a personal challenge. We are ruthlessly committed to our promises and vow to do what ever it takes to uphold them.”_ - Umair Aziz – Chief Innovation & Technology Officer
+
+
+## Our Promise to our Customers 
+
+### Profile # 1: Founder of a pre-seed / seed stage Startup
+Creative Chaos can help you win the race to MVP and your first set of customers, proving your vision correct and lead you to a successful series A round. We will minimize the risk associated with new product development by using our proven Agile MVP Development Framework. You will be ready to scale your technology with a partner who has experience in helping dozens of startups from ideation to exit.
+
+### Profile # 2: Founder / CXO of a Venture Funded Startup
+Creative Chaos enables you to act upon marketplace opportunities and address development challenges by providing agile development teams that integrate with your core teams through a proven team integration framework. We help scale your development using our global delivery centers and bring operational and cost efficiencies to your business.
+
+### Profile # 3: CXO / SVP / VP of a Mid Market / Fortune 1000 Company
+Creative Chaos enables you to act upon marketplace opportunities which are beyond your internal capabilities. We deliver high impact digital and technology solutions through our proven innovation delivery framework that provides value beyond operational cost reduction. We help deliver your next big idea!
