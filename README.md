@@ -1,4 +1,4 @@
 ## This is our playbook
 
 # Start here:
-[Who are we](../../whoarewe)
+[Who are we](/whoarewe.md)
