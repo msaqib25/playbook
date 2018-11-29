@@ -10,19 +10,21 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Who Are We](whoarewe.md)
 
-[Our History](/playbook/ourhistory)
+[Our History](ourhistory.md)
 
-[What We Do Well](/playbook/whatwedowell)
+[What We Do Well](whatwedowell.md)
 
-[What We Stand For](/playbook/ourcompanyvalues)
+[What We Stand For](ourcompanyvalues.md)
 
-[What We Value in our Associates](/playbook/whatwevalueinassociates)
+[What We Value in our Associates](whatwevalueinassociates.md)
 
-[Who Inspires Us](/playbook/whoinspiresus)
+[Who Inspires Us](whoinspiresus.md)
 
 
 ## Navigating the Maze
-[Who Does What](/playbook/whodoeswhat)
 
-[Vocabulary](/playbook/vocabulary)
+[Who Does What](whodoeswhat.md)
 
+[Vocabulary](vocabulary.md)
+
+[Slack](slack.md)
