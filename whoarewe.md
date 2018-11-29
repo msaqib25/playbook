@@ -2,12 +2,12 @@
 
 ## We are an Innovation Delivery Agency
 
-- We help our customers **build** the future that they imagine for their customers.
-- We **build** the digital road map that makes sure they stay relevant in the marketplace.
-- We use creativity, strategy and smart application of technology to **build** innovative platforms and solutions. 
-- We are builders.
-- We are excited about the future.
-- We are honored to be an active player in changing and impacting the lives of people through digital, technology and innovation.
+- We help our customers **build** the future that they imagine for their business.
+- We **build** and deliver innovation that ensures our customers are leaders in the marketplace.
+- We use creativity, strategy and smart application of technology to **build** applications and platforms.
+- We are architects and engineers.
+- We are excited about the **future.**
+- We are honored to be an active player in changing and impacting the lives of people by delivering digital, technology and innovation.
 
 Creative Chaos **help's you build** the future.
 
