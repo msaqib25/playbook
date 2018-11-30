@@ -13,18 +13,56 @@ A person working in AppStudio is able to peek and see what a Dedicated team is w
 
 This level of transparency makes us aware and tightly integrated.
 
+## Members
+Slack is used by ALL associates of Creative Chaos across multiple locations.
+
+**Members**
+1. All associates in Pakistan are added as FULL MEMBERS.
+This adds them to some default channels like #announcements #ideas #kuddos #ama-ua etc
+
+2. All associates in the US and other places are always be added as MULTI-CHANNEL guests.
+They are added to location specific channels like #loc-usa, community channels like #comm-designers, #comm-developers, #comm-leads, and to project and client channels they are a part of.
+
+3. All clients will ALWAYS be added as SINGLE-CHANNEL guests:
+They are ONLY added to the #client-{projectname} that they are supposed to be on.
+
+Members are invited by Slack admins. If you need to a client or an associate invited to slack, reach the admins by sending a slack to @admins from the relevant group.
+
 ## Channels
+
+### Active Projects Channels
 For each active project, we start a channel with #proj- (like #proj-spark, #proj-unation, #proj-afs)
 
-For each team, we start a channel #team- (like #team-pmo, #team-architects)
+- Project channels are only **internal use** channels. **We will never have any clients on them.**
+- If you start the project channel; invite the appropriate team members to it.
+- Avoid the temptation to join project channels that you are not a part of.
+- If your team has been using a private channel for their project, consider archiving it and moving the discussions and conversations to the new #proj- channel.
+- Archive the #proj- channel once the project is over and help us with house-keeping.
 
+### Active Projects with Clients Channels
 For each active project where the client wants to collaborate with us, we start a channel with #client- (#client-spark, #client-unation)
 
+- Be aware that **any channel that starts with #client- has a client on it.** 
+- **Your tone, responses and style of communication should be professional.**
+- To invite a client, once you have created the channel, send a msg to @admins from the channel with a Name and Email address of the client you want added to this channel.
+- @admins will send an invite to the email address a create the client as a Single Channel Member - meaning they cannot be see or be added to any other channels.
+- @admins will only add a client to the channel the request came from.
+- When a project is finished, archive both the #proj- and the #client- channel. Before archiving the #client- channel request @admins to deactivate the client account
+
+
+### Team Channels
+For each team, we start a channel #team- (like #team-pmo, #team-architects)
+
+### Help Channels
 We let coworkers ask questions and make requests in #help- (like #help-finance, #help-admin, #help-network)
 
+### Fun Channels
 We have topic channels for everything else #fun- (like #fun-cricket, #fun-clubchaos)
 
-We have location specific channels in #loc- (#loc-pak, #loc-usa, #loc-khi, #loc-khimain, #loc-khibasement, #loc-khimarine4)
+### Location Specific Channels
+We have location specific channels in #loc- (like #loc-pak, #loc-usa, #loc-khi, #loc-khimain, #loc-khibasement, #loc-khimarine4, #loc-lhe)
+
+
 
 ## Getting Started with Slack
 To get started on the right foot - lets get the basics out of the way*
@@ -57,22 +95,8 @@ Community members ask questions; share ideas, articles and help each other becom
 ### 4) Join your project channels
 For each active project, our leads start a public channel with #proj- (like #proj-spark, #proj-litterati , #proj-unation. #proj-boloro). Join the project channel that you are assigned to.
 
-**Project Channel Notes:**
-- Project channels are only **internal use** channels. **We will never have any clients on them.**
-- If you start the project channel; invite the appropriate team members to it.
-- Avoid the temptation to join project channels that you are not a part of.
-- If your team has been using a private channel for their project, consider archiving it and moving the discussions and conversations to the new #proj- channel.
-- Archive the #proj- channel once the project is over and help us with house-keeping.
-
 ### 5) Join client channel for your project* 
 For each active project where the client wants to collaborate with us, our leads start a public channel with #client- (like #client-mpa , #client-unation, #client-boloro). Join the appropriate channel for the project where the client is collaborating.
-
-**Client Channel Notes:**
-- Be aware that **any channel that starts with #client- has a client on it.** Your tone, responses and style of communication should be professional.
-- To invite a client, once you have created the channel, send a msg to @admins from the channel with a Name and Email address of the client you want added to this channel.
-- @admins will send an invite to the email address a create the client as a Single Channel Member - meaning they cannot be see or be added to any other channels.
-- @admins will only add a client to the channel the request came from.
-- When a project is finished, archive both the #proj- and the #client- channel. Before archiving the #client- channel request @admins to deactivate the client account
 
 
 ## Living with Slack
