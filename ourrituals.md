@@ -1,0 +1,102 @@
+# Our Rituals
+
+## Daily
+
+### Standups
+
+## Weekly
+
+### Status Update
+
+## Monthly
+
+### Lunch & Learn
+Every Thursday afternoon is lunch & learn from 1-2pm.
+
+Lunch & Learn is an opportunity for us to learn something new every week. Each week the session is from a different category. So you maybe learning something about finance one week, and something about project management or design another. We want to keep it exciting and diversified.
+
+Everyone in the company is encouraged to create a topic (any topic) and put their name on the [shared google sheet](https://docs.google.com/spreadsheets/d/1F25ogetFbGa592Q4Zr0LhyMD3aOa26fUl32-9yy8eFc/edit?usp=sharing)
+
+Notes:
+- Lunch & learn is generally organized in the basement conference room.
+- Since space is limited, only 15 people can attend lunch & learn in person. An email goes out the week of Lunch and Learn for signups.
+- We order Pizza for the people in the conference room.
+- Everyone else can join the session via Zoom.
+- The session is also played in the cafeteria and main development areas so others who cannot be in there in person can hear in.
+- The session is recorded and archived.
+
+### Demo Day
+Every last Fri of the month, we have Demo day. This is where a team has to demo their product.
+
+We want to present the client, the problem / business case, the technology, the challenges and how we overcame them. 
+
+A calender is maintained in a google doc for Demo Day.
+
+Team leads are expected to review open slots and [sign up](https://docs.google.com/spreadsheets/d/1F25ogetFbGa592Q4Zr0LhyMD3aOa26fUl32-9yy8eFc/edit?usp=sharing
+) in advance.
+
+Each member of the team is expected to be involved in preparing and presenting. We want everyone to cover an area in the presentation. The lead should use this as an opportunity to get other members in their team to take ownership and keep their own time on the floor limited. 
+
+The presentation is recorded on Zoom and archived.
+
+### Newsletter
+
+
+### Celebrate New Associates
+We celebrate all new associates in the month of their joining.
+
+We also celebrate anyone who has worked with us for 5/10/15 years.
+
+Celebration happen on the first Fri of every month at 6:00pm. Associates are expected to give a small speech telling us a little about themselves and how their first month has been.
+
+
+### Social Lunches
+On the 3rd Friday of every month, 6 associates are randomly selected to go on lunch - paid for by the company. Yes - we want you to have fun and meet associates from across the company who you may have never interacted with.
+
+Enjoy yourselves. Please don't talk about work. Take pictures and have fun.
+
+Same restaurant - Same Time - Every Third Fri.
+
+- HR uses a random result generator tool to pick 6 people. 
+- The names are announced on Slack on the third Monday.
+- Associates in Lahore if picked are flown in to Karachi for the day.
+
+## Quarterly
+
+### Company Performance Evaluation
+
+### Intrapreneurship Showdown (Shark-tank style)
+To encourage intrapreneurship at Creative Chaos, every quarter we host a shark tank style session where 3 associate pitch ideas. Ideas can either be around new business opportunities or how to improve something at Creative Chaos.
+
+- Ideas are submitted in Jan,Apr,Jul,Oct
+- Top 3 ideas are selected in Feb,May,Aug,Nov
+- Showdown happens in the middle of Mar,Jun,Sep,Dec
+
+Showdown is broadcasted on zoom.
+- 10 minutes presentation for each idea.
+- 10 minutes Q&A
+- 3 judges evaluate and make a final decision.
+- Winning idea gets a cash award of Rs.25,000 and perhaps the idea gets approved and funded for implementation.
+
+
+## Yearly
+### Company Annual Meetup
+
+## Random
+###Lunch with UA & SH
+Whenever UA or Shakir are in town, we get a group of 5 associates to have lunch with them.
+
+- The 5 associates are randomly picked by HR using the random result generator.
+- In order to save time commuting and going out somewhere... we order sandwiches / pizza / burger (something not messy) and do this in our conference room.
+
+### #ama-ua
+We have a "Ask me Anything" channel on Slack where associates can ask UA anything! Yes! Get those questions questions you have been thinking or talking about about with your colleagues during smoke and lunch breaks, answered. You know what they are. It doesn't matter... personal, professional, work, clients, business ... anything and everything goes here.
+
+In addition; If you want to "Tell UA Anything" - send him a DM on Slack.
+
+If you want to "Talk to UA" - setup a zoom call. You can find a slot here - https://calendly.com/uaziz/quickchat
+
+If you want to "Meet UA in person" (and he's in town) - DM him and if he's not on a tight schedule, he will meet up.
+
+### #ideas
+We have an #ideas channel on Slack. This is our online "Suggestion Box". All kinds of tips, ideas are welcome here. One idea is picked every month for possible implementation. If your idea is picked, you get rewarded to a dinner at your favorite restaurant with your family.
