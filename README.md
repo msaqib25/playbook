@@ -1,7 +1,7 @@
 # This Is Our Playbook
 For starters, this is not a handbook. Handbooks are procedure manuals - theoretical, policy documents that no one wants to read because they do not talk about anything that is practically relevant to what we actually do... i.e build technology and innovation for our customers.
 
-This purpose of this playbook is to bring **clarity** and **alignment** to everyone at Creative Chaos on how we run our company, how we service our customers and how we create a high performance culture.
+The purpose of this playbook is to bring **clarity** and **alignment** to everyone at Creative Chaos on how we run our company, how we service our customers and how we maintain a high performance culture.
 
 You should never have to guess what we do, what we expect from you, or how to do certain things.
 
