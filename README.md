@@ -43,6 +43,14 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Our Rituals](ourrituals.md) **WIP**
 
+## Growing at Creative Chaos
+[What does high performance mean?](highperformance.md) **WIP**
+
+[Rising Stars](risingstars.md)
+
+[How we judge Your Performance](howwejudgeyourperformance.md) **WIP**
+
+[Career Ladder](careerladder.md) **WIP**
 
 ## Notes of Caution
 [Discrimination & Harrassment](discriminationharrassment.md)- **WIP**
