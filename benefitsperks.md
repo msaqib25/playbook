@@ -19,9 +19,10 @@ We cover 100% educational expenses for all the children of our **custodial staff
 During the year, we encourage you to find trainings that will help you professionally. We cover 75% of all training costs. If you need to buy books or access to any online courses, we cover 100% for a maximum limit of 20k per year.
 
 ### Office Timings
-We care about getting things done. And we trust you with how you organize yourself. As long as your times are are in sync with your team and are putting in around 8 hours everyday - you should be ok. If your work requires you to have a couple of hours of overlap with our remote teams or geographically dispersed clients, you may find yourself coming in a little early; or staying back a little late. You make the call on how you will handle this. We leave it up to you to decide what times work best for you. 
+We care about getting things done. And we trust you with how you organize yourself. As long as your times are in sync with your team and you are putting in around 8 hours everyday - you should be ok. If your work requires you to have a couple of hours of overlap with our remote teams or geographically dispersed clients, you may find yourself coming in a little early; or staying back a little late. You make the call on how you will handle this. We leave it up to you to decide what times work best for you. 
 
 Most teams work: 11:00am to 8:00pm with a 1 hour lunch break. 
+
 BSD works: 9:30am to 6:30am with a 1 hour lunch break.
 
 ### Transportation
@@ -34,10 +35,10 @@ If you are working late, or have to come to work on the weekends, our admin team
 In addition to our after-office hours transport; if you are working late, or have to come to work on weekend; we reimburse you for your meals.**[Todo = get the math for this here]**
 
 ### Sabbatical
-Every five years, associates are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably three months in advance, so we can coordinate with the client and manage the work-load accordingly.
+Every five years, associates are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably six months in advance, so we can coordinate with the client and manage the work-load accordingly.
 
 ### Parental Leave
-When you welcome a new child (birthed or adopted), Creative Chaos encourages you to take up to 12 weeks leave for primary caregivers and up to 4 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
+When you welcome a new child (birthed or adopted), Creative Chaos encourages you to take up to 12 weeks leave for primary caregivers and up to 4 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 4 weeks leave unpaid.
 
 ### Profit Sharing
 From 2019, Creative Chaos will start offering profit sharing to its employees. The system is based on two questions at the end of every year...
