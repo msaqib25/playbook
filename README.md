@@ -30,3 +30,9 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 [Getting Started](gettingstarted.md)
 
 [Slack](slack.md)
+
+
+# Policies
+[Benefits & Perks](benefitsperks.md)
+
+
