@@ -1,20 +1,22 @@
+# Who Does What
+
 Figuring out who to bring a particular issue or a question to shouldn't be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team, and the head of the team should be the first point of contact. At the same time, every single person who work at Creative Chaos is approachable and friendly, more than willing to point you in the right direction. If you have a question, you're probably not the first, so speak up!
 
 Below you'll find a list of the major groups and team members at Creative Chaos in alphabetical order.
 
 
 ## Architects Team (AT)
-**Adeel Rizvi** and **Arjun Bhatnagar** are the Innovation Architects. They work closely with UA. They are responsible for architecture of all new applications, do code-reviews, and establish standards and best-practices within the company. If you find yourself stuck in a technical problem; or want someone to review a piece of code; reach out to them. They are their to mentor and advise you so you can be better at what you do.
+**Adeel Rizvi** and **Arjun Bhatnagar** are the Innovation Architects. They work closely with UA. They are responsible for architecture of all new applications, do code-reviews, and establish standards and best-practices within the company. If you find yourself stuck in a technical problem; or want someone to review a piece of code; reach out to them. They are there to mentor and advise you so you can be better at what you do.
 
 
 ## Business Support Departments (BSD)
 BSD represents all units that are responsible for making sure we are able to run the company, service our customers and enjoy our experience at Creative Chaos
 
 ### Accounts
-**Munawwar Raza** is our Accounts Manager. His team is responsible for for invoices, expenses, vendors, payroll and benefits. His team also assists Admin with procurement and vendor management. 
+**Munawwar Raza** is our Accounts Manager. His team is responsible for for invoices, expenses, vendors, payroll and benefits. His team also assists Admin with procurement and vendor management.
 
 ### Admin & Facilities
-**Muddasir** is our Admin manager. He and his team are responsible for our maintaining our facilities. If there's a facility related issue; Muddasir and his team can help you out.
+**Muddasir** is our Admin manager. His team are responsible for our maintaining our facilities. If there's a facility related issue; Muddasir and his team can help you out.
 
 ### Network & Systems
 **Rashid Shafi** leads our network and systems team. If you have problems with your PC, email, connectivity, or need support with hosting, domains - Rashid and his team are the people you need to talk to.
@@ -27,9 +29,11 @@ We have 4 logical groups that handle all business opportunities. The grouping is
 
 2. Enterprise Digital (Profile 3): These are large engagements for web or mobile that require us to put our best foot forward. This means all hands on deck. **Alexa Discepolo**, Frank, DOPS, AT, SH & UA are all involved in handling these opportunities.
 
-3. Inbound Digital (Profile 4): All inbound leads on our .digital website are the responsibility of **Ishan Farooq**. He is supported by **Mustansir Kanchwala (Matt)** and Alexa Discepolo. 
+3. Digital Web - Inbound (Profile 4): All inbound leads on our .digital website are the responsibility of **Ishan Farooq**. He is supported by **Mustansir Kanchwala (Matt)** and Alexa Discepolo. 
 
-4. Partner Program: **David Cutler** leads our partner program. He build relationships with agencies that use our capabilities and bandwidth to grow their business. Depending on the type of opportunity that comes from the partner program; the opportunity is passed to the appropriate group within the business team.
+4. Digital Web - Pakistan: We have a pretty substantial digital business in Pakistan. Ishan is supported by **Abbas Jaffer** who leads all PK specific web opportunities.
+
+5. Partner Program: **David Cutler** leads our partner program. He build relationships with agencies that use our capabilities and bandwidth to grow their business. Depending on the type of opportunity that comes from the partner program; the opportunity is passed to the appropriate group within the business team.
 
 
 ## Digital Operations (DOPS)
