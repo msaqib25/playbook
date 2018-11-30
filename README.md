@@ -26,7 +26,7 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Who Does What](whodoeswhat.md)
 
-[Benefits & Perks](benefitsperks.md)
+[Benefits & Perks](benefitsperks.md) **WIP**
 
 [Vocabulary](vocabulary.md)
 
