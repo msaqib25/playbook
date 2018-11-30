@@ -31,11 +31,11 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Getting Started](gettingstarted.md)
 
+[Our Internal Systems](internalsystems.md) **WIP**
+
 [Slack](slack.md)
 
 [Email Signatures](emailsignatures.md)
-
-[Our Internal Systems](internalsystems.md) **WIP**
 
 [Our Rituals](ourrituals.md) **WIP**
 
