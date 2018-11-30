@@ -78,11 +78,26 @@ We have an #ideas channel on Slack. This is our online "Suggestion Box". All kin
 
 ## Quarterly
 
-### Company Performance Evaluation
-**TODO**
+### Performance Appraisal of Creative Chaos
+Every quarter, we want our associates to do a company performance appraisal. Essentially tell us how they think about their work and about Creative Chaos. This feedback provides us the necessary data to make Creative Chaos a better place.
+
+We want everyone in the company to participate and not to ignore its value.
+- It is completely anonymous. 
+- We encourage you all to be honest in your assessment and feedback so we have real insights that we can act upon.
+- The results are shared with all associates during the townhall with a plan on how to improve impacted areas.
 
 ### Quarterly Townhall
-**TODO**
+Every quarter we all get together for a couple of hours for a company-wide townhall. The session is conducted virtually on Zoom.
+The objective of the townhall is
+- To update all associates on business
+- To share and discuss our Company Performance Appraisal
+- To update and discuss next quarters objectives
+- To give all associates an opportunity to ask any questions they may have
+
+
+### Supervisors Feedback
+Our culture of high performance is based on honesty and courage. We want to tell our supervisors what is working well and where we want them to improve. As an institutional practice, every quarter we provide honest feedback to our supervisors & managers. This is not a performance appraisal. This is feedback to help improve our colleagues who are responsible for us.
+
 
 ### Intrapreneurship Showdown (Shark-tank style)
 To encourage intrapreneurship at Creative Chaos, every quarter we host a shark tank style session where 3 associate pitch ideas. Ideas can either be around new business opportunities or how to improve something at Creative Chaos.
