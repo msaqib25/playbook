@@ -13,7 +13,7 @@ Below you'll find a list of the major groups and team members at Creative Chaos 
 BSD represents all units that are responsible for making sure we are able to run the company, service our customers and enjoy our experience at Creative Chaos
 
 ### Accounts
-**Munawwar Raza** is our Accounts Manager. His team is responsible for for invoices, expenses, vendors, payroll and benefits. His team also assists Admin with procurement and vendor management.
+**Munawwar Raza** is our Accounts Manager. His team is responsible for invoices, expenses, vendors, payroll and benefits. His team also assists Admin with procurement and vendor management.
 
 ### Admin & Facilities
 **Muddasir** is our Admin manager. His team are responsible for our maintaining our facilities. If there's a facility related issue; Muddasir and his team can help you out.
@@ -41,7 +41,7 @@ We have 4 logical groups that handle all business opportunities. The grouping is
 
 **Farhan Shaikh** heads our design and web team. He is responsible for managing the team and establishing and enforcing good design standards and practices within the team. Although most of his time today is spent in managing resources and teams, he is one of our oldest and trusted creative leads, and gets involved in selected projects to inspire us with his creative work.
 
-**Michael Abbate** is our Creative Director. He leads our design and UX. He oversees the creative process and works closely with all our designers, giving them guidance and feedback. At a management level, he works with Farhan & Adiyah to improve our our design standards and practices.
+**Michael Abbate** is our Creative Director. He leads our design and UX. He oversees the creative process and works closely with all our designers, giving them guidance and feedback. At a management level, he works with Farhan & Adiyah to improve our design standards and practices.
 
 
 ## Executives
