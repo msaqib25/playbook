@@ -27,7 +27,7 @@ All other information that you need will be available in your email including a 
 ## Slack
 You should have received a Slack invite on your email ID. Sign into slack.
 
-We extensively use Slack for all our communications. Go over our chapter on Slack and add channels that are relevant to you.
+We extensively use Slack for all our communications. Go over our [chapter on Slack](slack.md) and add channels that are relevant to you.
 
 ## Other Logins
 In order to access various services, Network & Systems team 
