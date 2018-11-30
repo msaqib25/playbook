@@ -53,7 +53,6 @@ We have 4 logical groups that handle all business opportunities. The grouping is
 
 
 ## Project Management
-**Alexa Discepolo** is our lead engagement, project and operations in the US. She is responsible for all Website and Digital Ops engagements. 
+**Alexa Discepolo** is our lead engagement, project and operations in the US. She is responsible for all websites and Digital Ops engagements. 
 
 **Imran Ali** is our head of PMO at Karachi. He oversees all development projects in Appstudio and Dedicated teams. If you want to get an insight into a project, or want to know about resource availability, Imran will have the answers for you.
-
