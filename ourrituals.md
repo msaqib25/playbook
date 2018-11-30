@@ -2,11 +2,22 @@
 
 ## Daily
 
-### Standups
+### Standups (Internal)
+Every morning our supervisors/team-leads/project managers have a 15 minute standup with the team. Each team member informs everyone what they finished yesterday, what they will work on today, and if they have any impediments.
+
+Teams leads or the entire team may also daily calls with the client to discuss progress.
+
+### CCTracker
+At the end of every day, associates in AppStudio, Dedicated & DigitalOps update CCTracker with time spent on each task / activity for each project.
 
 ## Weekly
 
-### Status Update
+### Weekly Status (External)
+Teams leads / Teams have a weekly call with the client to discuss progress.
+Team leads also send a weekly status update to the Client and copy PMO on it.
+
+### Weekly Status Update
+Every week, all our team leaders submit a status update of their project or team on our CC-SVOT (Single version of truth) trello board. The leads highlight key accommplishments, impediments and color code the status of their project as Green (Everything is under control), Yellow (We are cautious) or Red (Danger - we have problems). The SVOT is available for all to review.
 
 ## Monthly
 
@@ -40,7 +51,7 @@ Each member of the team is expected to be involved in preparing and presenting. 
 The presentation is recorded on Zoom and archived.
 
 ### Newsletter
-
+Every month we publish an internal newsletter that rounds up news, announcements and other pertinent information that's important for all our associates to know. The newsletter is published in the 1st week of every month.
 
 ### Celebrate New Associates
 We celebrate all new associates in the month of their joining.
@@ -61,9 +72,17 @@ Same restaurant - Same Time - Every Third Fri.
 - The names are announced on Slack on the third Monday.
 - Associates in Lahore if picked are flown in to Karachi for the day.
 
+### #ideas
+We have an #ideas channel on Slack. This is our online "Suggestion Box". All kinds of tips, ideas are welcome here. One idea is picked every month for possible implementation. If your idea is picked, you get rewarded to a dinner at your favorite restaurant with your family.
+
+
 ## Quarterly
 
 ### Company Performance Evaluation
+**TODO**
+
+### Quarterly Townhall
+**TODO**
 
 ### Intrapreneurship Showdown (Shark-tank style)
 To encourage intrapreneurship at Creative Chaos, every quarter we host a shark tank style session where 3 associate pitch ideas. Ideas can either be around new business opportunities or how to improve something at Creative Chaos.
@@ -81,6 +100,7 @@ Showdown is broadcasted on zoom.
 
 ## Yearly
 ### Company Annual Meetup
+**TODO**
 
 ## Random
 ###Lunch with UA & SH
@@ -98,5 +118,3 @@ If you want to "Talk to UA" - setup a zoom call. You can find a slot here - http
 
 If you want to "Meet UA in person" (and he's in town) - DM him and if he's not on a tight schedule, he will meet up.
 
-### #ideas
-We have an #ideas channel on Slack. This is our online "Suggestion Box". All kinds of tips, ideas are welcome here. One idea is picked every month for possible implementation. If your idea is picked, you get rewarded to a dinner at your favorite restaurant with your family.
