@@ -47,5 +47,5 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 ## Policies
 [Discrimination & Harrassment](discriminationharrassment.md)- **WIP**
 
-[Moonlighting](moonlighting.md) - **WIP**
+[Moonlighting](moonlighting.md)
 
