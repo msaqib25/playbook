@@ -62,7 +62,13 @@ We have topic channels for everything else #fun- (like #fun-cricket, #fun-clubch
 ### Location Specific Channels
 We have location specific channels in #loc- (like #loc-pak, #loc-usa, #loc-khi, #loc-khimain, #loc-khibasement, #loc-khimarine4, #loc-lhe)
 
+### Company Channels
 
+**#accouncements** - This is the company-wide announcement channel. It is used primarily by HR or others in leadership to make company-wide announcements. Do not post anything here.
+
+**#kuddos** - If anyone helps you out with a problem you are stuck with; if anyone does something where they deserve a pat on the back; if anyone inspires or motivates you; give them a shout-out on our #kuddos slack channel.
+
+**#ideas** - This is our online "Suggestion Box". All kinds of tips, ideas are welcome here. One idea is picked every month for possible implementation. If your idea is picked, you get rewarded to a dinner at your favorite restaurant with your family.
 
 ## Getting Started with Slack
 To get started on the right foot - lets get the basics out of the way*
