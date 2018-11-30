@@ -31,6 +31,7 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Slack](slack.md)
 
+[Email Signatures](emailsignatures.md)
 
 # Policies
 [Benefits & Perks](benefitsperks.md)
