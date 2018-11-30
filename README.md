@@ -27,4 +27,6 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Vocabulary](vocabulary.md)
 
+[Getting Started](gettingstarted.md)
+
 [Slack](slack.md)
