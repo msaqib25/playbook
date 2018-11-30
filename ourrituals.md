@@ -10,6 +10,9 @@ Teams leads or the entire team may also daily calls with the client to discuss p
 ### CCTracker
 At the end of every day, associates in AppStudio, Dedicated & DigitalOps update CCTracker with time spent on each task / activity for each project.
 
+### #kuddos
+If anyone helps you out with a problem you are stuck with; if anyone does something where they deserve a pat on the back; if anyone inspires or motivates you; give them a shout-out on our #kuddos slack channel.
+
 ## Weekly
 
 ### Weekly Status (External)
