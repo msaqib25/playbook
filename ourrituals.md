@@ -1,5 +1,15 @@
 # Our Rituals
 
+## New Associates Orientation
+### Signature Hunt
+All associates get a signature hunt sheet in their welcome packet. Your task is to go upto 10 people in the company and get their signatures. The sheet has to be returned to HR by the end of your first day. Its a fun activity and we hope you enjoy hunting random associates.
+
+### Lunch with a buddy
+You are not eating along on your first day! HR will assign a buddy (someone who is not in your team) who will explain to you the different lunch options, help you order the first lunch (which your buddy will pay for...its your first day so relax) and have lunch and answer any questions you may have. Bonus: You may get introduced to some of their friends. The buddy ends up being a goto person for all kinds of things.
+
+### 15 min meeting with UA
+All associates must schedule a [15 minute meeting with UA](https://calendly.com/uaziz/quickchat) within the first week of joining. Its an opportunity to meet UA, tell him about yourself and ask him any questions. Its not an interview...so relax! You are already in.
+
 ## Daily
 
 ### Standups (Internal)
@@ -130,9 +140,10 @@ Whenever UA or Shakir are in town, we get a group of 5 associates to have lunch 
 ### #ama-ua
 We have a "Ask me Anything" channel on Slack where associates can ask UA anything! Yes! Get those questions questions you have been thinking or talking about about with your colleagues during smoke and lunch breaks, answered. You know what they are. It doesn't matter... personal, professional, work, clients, business ... anything and everything goes here.
 
-In addition; If you want to "Tell UA Anything" - send him a DM on Slack.
+In addition; If you want to **"Tell UA Anything"** - send him a DM on Slack.
 
-If you want to "Talk to UA" - setup a zoom call. You can find a slot here - https://calendly.com/uaziz/quickchat
+If you want to **"Talk to UA"** - setup a zoom call. You can find a slot [here](https://calendly.com/uaziz/quickchat)
 
-If you want to "Meet UA in person" (and he's in town) - DM him and if he's not on a tight schedule, he will meet up.
+If you want to **"Meet UA in person"** (and he's in town) - DM him and if he's not on a tight schedule, he will meet up.
+
 
