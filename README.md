@@ -20,12 +20,14 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Who Inspires Us](whoinspiresus.md)
 
-
-## Navigating the Maze
-
 [Who Does What](whodoeswhat.md)
 
+[Benefits & Perks](benefitsperks.md)
+
 [Vocabulary](vocabulary.md)
+
+
+## Navigating the Maze
 
 [Getting Started](gettingstarted.md)
 
@@ -33,7 +35,13 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Email Signatures](emailsignatures.md)
 
-# Policies
-[Benefits & Perks](benefitsperks.md)
+[Our Internal Systems](internalsystems.md) **WIP**
 
+[Our Rituals](ourrituals.md) **WIP**
+
+
+## Policies
+[Discrimination & Harrassment]()- **WIP**
+
+[Moonlighting]() - **WIP**
 
