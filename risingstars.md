@@ -18,10 +18,10 @@ The Rising Stars program is strongly biased towards young and new associates. In
 - Based on the interviews, 1 associate will be selected as a rising star each quarter.
 
 Rising stars are:
-a) Celebrated across the company as associates who can possibly be the future pillars of the firm.
-b) They receive 1-1 mentoring from leadership. They get a unique understanding into different aspects of the business.
-c) They work closely with leadership on strategy and key business decisions.
-d) They form a relationship with senior management and leadership that helps them develop a growth plan within Creative Chaos.
-e) They are rigourously tested in multiple disciplines.
+- Celebrated across the company as associates who can possibly be the future pillars of the firm.
+- They receive 1-1 mentoring from leadership. They get a unique understanding into different aspects of the business.
+- They work closely with leadership on strategy and key business decisions.
+- They form a relationship with senior management and leadership that helps them develop a growth plan within Creative Chaos.
+- They are rigourously tested in multiple disciplines.
 
 If you think you have the DNA to be a future leader and have been demonstrating good judgement and contributing at extra-ordinary levels; discuss a nomination to be a rising start with your supervisor and work on your recommendation.
