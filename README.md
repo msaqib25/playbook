@@ -1,9 +1,13 @@
-# This is our playbook
-The purpose of this playbook is to bring **clarity** and **alignment** to everyone at Creative Chaos.
-You should never have to guess what we do, what we expect from you, or how to do certain things.
-This playbook provides answers and some directions - enough to help you navigate the chaos successfully.
+# This Is Our Playbook
+For starters, this is not a handbook. Handbooks are procedure manuals - theoretical, policy documents that no one wants to read because they do not talk about anything that is practically relevant to have we actually do... i.e build technology for our customers.
 
-We are constantly evolving as a company. This playbook evolves with with us.
+This purpose of this playbook is to bring **clarity** and **alignment** to everyone at Creative Chaos on how we run our company, how we service our customers and how we create a high performance culture.
+
+You should never have to guess what we do, what we expect from you, or how to do certain things.
+
+Through our playbook, we try to practically answer tactical questions and provide some directions - enough to help you navigate the chaos successfully.
+
+We are constantly evolving as a company. This playbook evolves with with us. If you see anything that is different from what you read, let us know. It is important that we either change or course correct. Ignoring or saying 'that's how it is' is not our style. Help us become better.
 
 ## Core
 This is where everyone begins. Our reason for existance, what we do, what we stand for and our values. Make sure you understand them well. You cannot be successful at Creative Chaos without truly aligning yourself with our values.
@@ -41,7 +45,7 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 
 ## Policies
-[Discrimination & Harrassment]()- **WIP**
+[Discrimination & Harrassment](discriminationharrassment.md)- **WIP**
 
-[Moonlighting]() - **WIP**
+[Moonlighting](moonlighting.md) - **WIP**
 
