@@ -17,7 +17,9 @@ csquareonline.com
 
 ### Jira / Confluence
 
-### Gitlab
+### ActiveCollab
+
+### Trello
 
 
 ## Communication & Collaboration
@@ -34,3 +36,7 @@ csquareonline.com
 ### Google Docs
 
 ### Dropbox
+
+
+
+
