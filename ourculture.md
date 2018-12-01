@@ -1,10 +1,10 @@
 # Our Culture
 
-## "What is the culture here?"
+## "What is the culture here like?"
 
-It is probably one the most important question that everyone has when talking about a company. Every associate has some point in time asked or been asked to answer this question. And since everyone has their own definition of culture, their responses are varied. This lack of clarity creates misalignment between company and associates. When this happens, it creates expectations that can never be met and can create anxiety and frustration. The feelings become their answer to the question - "What is the culture here?".
+It is probably one the most asked question when talking about a company from the perspective of an interested candidate. Every associate has some point in time asked or been asked to answer this question. And since everyone has their own definition of culture, the responses vary depending on their experience. This lack of definition in culture results in misalignment between the company and its associates. The lack of clarity of what the culture really is creates expectations that can never be met and results in anxiety and frustration. In the end, the feeling that an associate has for the company becomes their answer to the question - "What is the culture here like?".
 
-**The culture of the company is set by the company. It is not what a person feels, or thinks or believes in.**
+**The culture of a company is not a person's feeling.**
 
 - Culture is NOT having a nice office.
 - Culture is NOT the [benefits & perks](benefitsperks.md) or [our exciting rituals](ourrituals.md). 
@@ -12,7 +12,8 @@ It is probably one the most important question that everyone has when talking ab
 
 These are all benefits, perks and priviledges.
 
-**Culture is [what we believe](ourcorevalues.md) in and how we fight and protect our core values**
+**Culture is [WHAT WE BELIEVE IN](ourcorevalues.md) and how we institute, fight and protect these core values**
+
 
 ## 1) We Seek Excellence
 Our culture is focused on helping us achieve excellence.
