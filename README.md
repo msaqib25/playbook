@@ -37,7 +37,7 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 ## Navigating the Maze
 
-[Getting Started](gettingstarted.md)
+[Getting Started](gettingstarted.md) **WIP**
 
 [Our Internal Systems](internalsystems.md) **WIP**
 
