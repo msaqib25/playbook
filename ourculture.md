@@ -107,33 +107,49 @@ Many associates love our culture, and stay here for a long time
 
 
 ## 3) Context, Not Control
-The best managers figure out how to get great outcomes by setting the appropriate context, rather than by trying to control their people.
 
-Provide strategy and direction; rather than dictation.
+We want to work with responsible people and empower them with context and responsibility. 
 
-### Context (embrace)
+**Responsible People Thrive on Freedom, and are Worthy of Freedom**
+
+### The Rare Responsible Person
+- Self motivating
+- Self aware
+- Self disciplined
+- Self improving
+- Acts like a leader
+- Doesn’t wait to be told what to do
+- Never feels “that’s not my job”
+- Picks up the trash lying on the floor
+- Behaves like an owner
+
+The best managers figure out how to get great outcomes from responsible people by setting the appropriate context, rather than by trying to control them.
+
+They provide strategy and direction; rather than dictation.
+
+### Context (we should embrace)
 - Strategy
-- Metrics
 - Assumptions
 - Objectives
 - Clearly-defined roles
 - Knowledge of the stakes
 - Transparency around decision-making
 
-### Control (avoid)
+### Control (we should avoid)
 - Top-down decision-making
 - Management approval
 - Committees
 - Planning and process valued more than results
 
 ### Exceptions
-- Control can be important in emergency, or high-stakes
-No time to take long-term capacity-building view
+- Control can be important in emergency, or high-stakes situations
+Risk is too high; and there's no time to deliberate
 
 - Control can be important when someone is still learning their area
 It takes time to pick up the necessary context
 
 - Control can be important when you have the wrong person in a role
+For the short term, there's nothing that can be done but to dictate
 
 ### Note to Managers
 **Managers: When you are tempted to “control” your people, ask yourself what context you could set instead**
@@ -149,3 +165,4 @@ _Instead, ask yourself what context you failed to set._
 - They are not just satisifed with meeting expectations - they want to exceed them. 
 
 Providing context, allows them to think beyond what is being asked for. 
+
