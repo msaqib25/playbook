@@ -40,17 +40,18 @@ We are determined to creating a high-performance company.
 To Win - you have to operate like a pro-sports team.
 Just like you select the 11 best players for the national cricket team so they can win; we want to do the same for Creative Chaos.
 
-#### What happens when a player is not performing well in the cricket team; and he is not being dropped after a lot of chances?
-- The team suffers, confidence in the team goes down and we all talk about nepotism and politics. 
+#### What happens when a player is not performing well in the cricket team; and they are not being dropped after a lot of chances?
+- The team suffers, confidence in the team goes down.
+- We talk about nepotism and politics. 
+- We curse the selectors (managers). 
 
-Every person in a pro-sports team must make an impact. That is the only way to win.
+**Every person in a pro-sports team must make an impact. That is the only way to win.**
 
-You cannot win matches by having good people. 
-
-Good people are not necessarily high performers.
+You cannot win matches by having average or good players.
+Good players are not necessarily high performers.
 
 ### What does this mean?
-Creative Chaos leaders **hire, develop and cut smartly** to make sure we have the best players in our team at all times.
+Creative Chaos leaders must **hire, develop and cut smartly** to make sure we have the best players in our team at all times.
 If we don't, we will **LOSE** (a client, a unit or our business)
 
 ### Why do we care so much about high-performance?**
