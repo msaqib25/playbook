@@ -73,7 +73,7 @@ If we don't, we will **LOSE** (a client, a unit or our business)
 ### Isn't loyalty good?
 We value loyalty as it is a good stabilizer.
 
-- Associates who have been stars with us, and hit a bad patch, get a few of quarters to rebound because we think they will become stars again.
+- Associates who have been stars with us, and hit a bad patch, get a few quarters to rebound because we think they will become stars again.
 
 - We expect the same: if Creative Chaos hits a temporary bad patch, we want associates to stick with us.
 
