@@ -7,7 +7,9 @@ You should never have to guess what we do, what we expect from you, or how to do
 
 Through our playbook, we try to practically answer tactical questions and provide directions - enough to help you navigate the chaos successfully.
 
-We are constantly evolving as a company. This playbook evolves with with us. **If you read anything that is different from what you see, let us know.** It is important that we either change or course correct. Ignoring or saying 'that's how it is' is not our style. **Help us become consistent - Help us become better.**
+We are constantly evolving as a company. This playbook evolves with with us. **If you read anything that is different from what you see happening around you, let us know.** It is important that we either change or course correct. 
+
+Ignoring or saying 'that's how it is' is not our style. **Help us become consistent - Help us become better.**
 
 ## Core
 This is where everything begins. Our reason for existance, what we do, what we stand for and our values. Make sure you understand them well. You cannot be successful at Creative Chaos without truly aligning yourself with our values.
