@@ -16,9 +16,9 @@ These are all benefits, perks and priviledges.
 
 
 ## 1) We Seek Excellence
-Our culture is focused on helping us achieve excellence.
+Our culture is designed to help us achieve excellence.
 
-Our culture is determined by three simple decisions that the company makes every day:
+Simply put, our culture is determined by how we make three simple decisions every day:
 - Who we hire?
 - Who we promote?
 - Who we let go?
