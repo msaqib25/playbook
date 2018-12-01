@@ -12,7 +12,7 @@ It is probably one the most asked question when talking about a company from the
 
 These are all benefits, perks and priviledges.
 
-**Culture is [WHAT WE BELIEVE IN](ourcorevalues.md) and how we institute, fight and protect these core values**
+**Culture is [WHAT WE BELIEVE IN](ourcompanyvalues.md) and how we institute, fight and protect these core values**
 
 
 ## 1) We Seek Excellence
