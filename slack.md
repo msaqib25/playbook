@@ -26,7 +26,7 @@ They are added to location specific channels like #loc-usa, community channels l
 3. All clients will ALWAYS be added as SINGLE-CHANNEL guests:
 They are ONLY added to the #client-{projectname} that they are supposed to be on.
 
-Members are invited by Slack admins. If you need to a client or an associate invited to slack, reach the admins by sending a slack to @admins from the relevant group.
+Members are invited by Slack admins. If you need a client or an associate invited to slack, reach the admins by sending a slack to @admins from the relevant group.
 
 ## Channels
 
