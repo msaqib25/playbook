@@ -12,26 +12,35 @@ It is probably one the most asked question when talking about a company from the
 
 These are all benefits, perks and priviledges.
 
-**Culture is [what we believe in](ourcompanyvalues.md) and how we institute, fight and protect these core values**
+**Culture is how a firm operates; [what it believes in](ourcompanyvalues.md) and how it fights and protects these core values**
 
+These are the core aspects of our culture:
+- Values are what we Value
+- High Performance
+- Context, Not Control
+- Top of Market Compensation
+- Promotions & Development
 
-## 1) We Seek Excellence
-Our culture is designed to help us achieve excellence.
+## 1) Values are what we Value
 
-Simply put, our culture is determined by how we answer three simple questions every day:
+### We seek excellence from our associates
+
+Our culture is determined by how we answer three simple questions every day:
 - Who we hire?
 - Who we promote?
 - Who we let go?
 
 To answer these questions we focus on the **behavior and skills** that [we value in our associates](whatwevalueinassociates.md).
 
-- **Every associate should question actions that are inconsistent with our values** - this is a part of our [Courage Value](whatwevalueinassociates.md#courage)
+- We want to work with associates that embody these values.
 
-- These values are reinforced in hiring, performance reviews, comp reviews, promotions and exits
+- **Every associate should question actions that are inconsistent with our values** - this is part of our [courage value](whatwevalueinassociates.md#courage)
+
+- These values are reinforced in hiring, performance reviews, comp reviews, promotions and seperations.
 
 
 ## 2) High Performance
-We are determined to creating a high-performance company.
+We strive to be a high-performance company.
 
 ### The objective of any business is to WIN.
 
@@ -47,16 +56,16 @@ Just like you select the 11 best players for the national cricket team so they c
 - We curse the selectors (managers). 
 
 **Every person in a pro-sports team must make an impact. That is the only way to win.**
-
-You cannot win matches by having average or good players.
-Good players are not necessarily high performers.
+- You cannot win matches by having average or good players.
+- Good players are not necessarily high performers.
 
 ### What does this mean?
-Creative Chaos leaders must **hire, develop and cut smartly** to make sure we have the best players in our team at all times.
-If we don't, we will **LOSE** (a client, a unit or our business)
+- Creative Chaos leaders must **hire, develop and cut smartly** to make sure we have the best players in our team at all times.
+- If we don't, we will **LOSE** (a client, a unit or our business)
 
 ### Why do we care so much about high-performance?
 - In procedural work, the best are 2x better than the average.
+
 - In creative/inventive work, the best are 10x better than the average, so there's a huge premium on creating effective teams of the best.
 
 ### What about hard workers?
@@ -82,7 +91,7 @@ We value loyalty as it is a good stabilizer.
 ### What about brilliant jerks?
 You can't be a jerk at Creative Chaos. Even if you are a superstar!
 
-- This attitude may work well at some other companies; but we simply don't tolerate them. 
+- This attitude may work well at some other companies; but we simply don't tolerate it. 
 
 - For us, the cost of teamwork is too high.
 
@@ -95,4 +104,5 @@ Many associates love our culture, and stay here for a long time
 - They thrive in an environment that pushes them to become better professionally
 - They care about excellence
 - They appreciate the openness and candor
-- They push themselves to continuously evolve. They enjoy maintaining a status of a high-performer
+- They push themselves to continuously evolve
+- They enjoy maintaining a status of a high-performer
