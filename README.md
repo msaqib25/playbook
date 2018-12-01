@@ -26,7 +26,7 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Who Does What](whodoeswhat.md)
 
-[Benefits & Perks](benefitsperks.md) **WIP**
+[Benefits & Perks](benefitsperks.md) **80%**
 
 [Our Culture](ourculture.md) **WIP**
 
@@ -43,7 +43,7 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Email Signatures](emailsignatures.md)
 
-[Our Rituals](ourrituals.md) **WIP**
+[Our Rituals](ourrituals.md) **95%**
 
 ## Growing within Creative Chaos
 
