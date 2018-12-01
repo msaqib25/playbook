@@ -131,7 +131,7 @@ Showdown is broadcasted on zoom.
 **TODO**
 
 ## Random
-###Lunch with UA & SH
+### Lunch with UA & SH
 Whenever UA or Shakir are in town, we get a group of 5 associates to have lunch with them.
 
 - The 5 associates are randomly picked by HR using the random result generator.
