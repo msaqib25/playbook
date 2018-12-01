@@ -18,8 +18,6 @@ These are the core aspects of our culture:
 - Values are what we Value
 - High Performance
 - Context, Not Control
-- Top of Market Compensation
-- Promotions & Development
 
 ## 1) Values are what we Value
 
@@ -106,3 +104,48 @@ Many associates love our culture, and stay here for a long time
 - They appreciate the openness and candor
 - They push themselves to continuously evolve
 - They enjoy maintaining a status of a high-performer
+
+
+## 3) Context, Not Control
+The best managers figure out how to get great outcomes by setting the appropriate context, rather than by trying to control their people.
+
+Provide strategy and direction; rather than dictation.
+
+### Context (embrace)
+- Strategy
+- Metrics
+- Assumptions
+- Objectives
+- Clearly-defined roles
+- Knowledge of the stakes
+- Transparency around decision-making
+
+### Control (avoid)
+- Top-down decision-making
+- Management approval
+- Committees
+- Planning and process valued more than results
+
+### Exceptions
+- Control can be important in emergency, or high-stakes
+No time to take long-term capacity-building view
+
+- Control can be important when someone is still learning their area
+It takes time to pick up the necessary context
+
+- Control can be important when you have the wrong person in a role
+
+### Note to Managers
+**Managers: When you are tempted to “control” your people, ask yourself what context you could set instead**
+
+_Are you articulate and inspiring enough about goals and strategies?_
+
+**Managers: When one of your talented people does something dumb, don’t blame them. **
+
+_Instead, ask yourself what context you failed to set._
+
+### Why Managing Through Context?
+- High performance people do better work if they understand the context
+- They are not just satisifed with meeting expectations - they want to exceed them. 
+
+Providing context, allows them to think beyond what is being asked for. 
