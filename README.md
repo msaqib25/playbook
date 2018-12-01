@@ -28,6 +28,8 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Benefits & Perks](benefitsperks.md) **80%**
 
+[Our Rituals](ourrituals.md) **95%**
+
 [Our Culture](ourculture.md) **WIP**
 
 [Vocabulary](vocabulary.md)
@@ -43,7 +45,6 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Email Signatures](emailsignatures.md)
 
-[Our Rituals](ourrituals.md) **95%**
 
 ## Growing within Creative Chaos
 
@@ -51,7 +52,8 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 
 ## Notes of Caution
-[Discrimination & Harrassment](discriminationharrassment.md)- **WIP**
+[Business Risks](businessrisks.md) **WIP**
+
+[Ethical, Moral and Legal Issues](ethicalmorallegal.md)- **WIP**
 
 [Moonlighting](moonlighting.md)
-
