@@ -5,7 +5,7 @@ The purpose of this playbook is to bring **clarity** and **alignment** to everyo
 
 You should never have to guess what we do, what we expect from you, or how to do certain things.
 
-Through our playbook, we try to practically answer tactical questions and provide some directions - enough to help you navigate the chaos successfully.
+Through our playbook, we try to practically answer tactical questions and provide directions - enough to help you navigate the chaos successfully.
 
 We are constantly evolving as a company. This playbook evolves with with us. If you see anything that is different from what you read, let us know. It is important that we either change or course correct. **Ignoring or saying 'that's how it is' is not our style. Help us become better.**
 
