@@ -28,6 +28,8 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Benefits & Perks](benefitsperks.md) **WIP**
 
+[Our Culture](ourculture.md) **WIP**
+
 [Vocabulary](vocabulary.md)
 
 
@@ -43,10 +45,10 @@ This is where everyone begins. Our reason for existance, what we do, what we sta
 
 [Our Rituals](ourrituals.md) **WIP**
 
-## Our Culture
-[Our Culture](ourculture.md) **WIP**
+## Growing within Creative Chaos
 
 [Rising Stars](risingstars.md)
+
 
 ## Notes of Caution
 [Discrimination & Harrassment](discriminationharrassment.md)- **WIP**
