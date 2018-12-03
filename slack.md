@@ -4,26 +4,14 @@ Slack is the central nervous system of our company.
 
 From announcements to key company decisions, internal project collaboration and client communication; we use slack to integrate and make us act like ONE TEAM.
 
-At Creative Chaos, we do not believe in walls and silos. We are open and transparent.
-
-Everyone in the company is aware of whats going on.
-Every project, team and dept. has a public channel. This allows everyone to peek in and see whats going on.
-
-A person working in AppStudio is able to peek and see what a Dedicated team is working on. Its like walking into a room and listening in to the conversation.
-
-This level of transparency makes us aware and tightly integrated.
-
 ## Members
 Slack is used by ALL associates of Creative Chaos across multiple locations.
 
 **Members**
-1. All associates in Pakistan are added as FULL MEMBERS.
-This adds them to some default channels like #announcements #ideas #kuddos #ama-ua etc
-
-2. All associates in the US and other places are always be added as MULTI-CHANNEL guests.
+All associates in the US and other places are always be added as MULTI-CHANNEL guests.
 They are added to location specific channels like #loc-usa, community channels like #comm-designers, #comm-developers, #comm-leads, and to project and client channels they are a part of.
 
-3. All clients will ALWAYS be added as SINGLE-CHANNEL guests:
+All clients will ALWAYS be added as SINGLE-CHANNEL guests:
 They are ONLY added to the #client-{projectname} that they are supposed to be on.
 
 Members are invited by Slack admins. If you need a client or an associate invited to slack, reach the admins by sending a slack to @admins from the relevant group.
@@ -53,22 +41,8 @@ For each active project where the client wants to collaborate with us, we start 
 ### Team Channels
 For each team, we start a channel #team- (like #team-pmo, #team-architects)
 
-### Help Channels
-We let coworkers ask questions and make requests in #help- (like #help-finance, #help-admin, #help-network)
-
-### Fun Channels
-We have topic channels for everything else #fun- (like #fun-cricket, #fun-clubchaos)
-
 ### Location Specific Channels
 We have location specific channels in #loc- (like #loc-pak, #loc-usa, #loc-khi, #loc-khimain, #loc-khibasement, #loc-khimarine4, #loc-lhe)
-
-### Company Channels
-
-**#accouncements** - This is the company-wide announcement channel. It is used primarily by HR or others in leadership to make company-wide announcements. Do not post anything here.
-
-**#kuddos** - If anyone helps you out with a problem you are stuck with; if anyone does something where they deserve a pat on the back; if anyone inspires or motivates you; give them a shout-out on our #kuddos slack channel.
-
-**#ideas** - This is our online "Suggestion Box". All kinds of tips, ideas are welcome here. One idea is picked every month for possible implementation. If your idea is picked, you get rewarded to a dinner at your favorite restaurant with your family.
 
 ## Getting Started with Slack
 To get started on the right foot - lets get the basics out of the way*
