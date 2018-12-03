@@ -1,3 +1,5 @@
+# Who Inspires US
+
 Over the years, we have found the following companies to have played a key role in how we think, how we act and how we aspire to be better.
 
 ## Mckinsey & Co.
