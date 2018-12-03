@@ -25,4 +25,8 @@ This is where everything begins. Our reason for existance, what we do, what we s
 
 [A Note on Moonlighting](moonlighting.md)
 
+[Slack](slack.md)
+
 [Vocabulary](vocabulary.md)
+
+[Getting Started](gettingstarted.md)
