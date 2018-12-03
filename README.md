@@ -28,34 +28,8 @@ This is where everything begins. Our reason for existance, what we do, what we s
 
 [Who Does What](whodoeswhat.md)
 
-[Benefits & Perks](benefitsperks.md) **80%**
+[Benefits & Perks](benefitsperks.md)
 
-[Our Rituals](ourrituals.md) **95%**
-
-[Our Culture](ourculture.md) **WIP**
+[Our Culture](ourculture.md)
 
 [Vocabulary](vocabulary.md)
-
-
-## Navigating the Maze
-
-[Getting Started](gettingstarted.md) **WIP**
-
-[Our Internal Systems](internalsystems.md) **WIP**
-
-[Slack](slack.md)
-
-[Email Signatures](emailsignatures.md)
-
-
-## Growing within Creative Chaos
-
-[Rising Stars](risingstars.md)
-
-
-## Notes of Caution
-[Business Risks](businessrisks.md) **WIP**
-
-[Ethical, Moral and Legal Issues](ethicalmorallegal.md)- **WIP**
-
-[Moonlighting](moonlighting.md)
