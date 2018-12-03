@@ -1,38 +1,26 @@
-# Benefits & Perks
+# Benefits & Perks - US
 
-### Medical Insurance & OPD
-Health insurance is provided through Allianz to all associates. We have 3 different plans in place. The details of our plan should be provided to you by HR. All plans covers you, your spouse and your children. **[Todo: What are the plans, limits. The OPD form?]**
- 
-### Life Insurance
-We provide life insurance for all associates through Allianz. **[Todo: Details on how much]**
+### Health & Dental Insurance
+Health insurance is provided in MA via Tufts Health. Dental coverage in MA is provided via Delta Dental.
+Health and Dental insurance is provided in CA via Covered California.
+
+The company pays 100% of the premium and the employee pays 0%. Open enrollment is in November every year. Marriages and domestic partnerships are covered equally.
+
+### Vision
+Creative Chaos does not offer vision insurance. However, our medical insurance plan gives discounts on eye exams, glasses and contact lenses.
 
 ### Paid Time Off
-Creative Chaos offers 2 weeks of paid vacation, 7 sick days to use at your discretion, and the standard national holidays every year. If you need to take a personal day, they first gets deducted from your sick days and then from your paid vacation. Vacations do not carry-forward to the next year. Use them or lose them. We encourage you to plan in advance and not wait till November or December since there is a high probability that you will get tied in some project.
+Creative Chaos offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard national holidays every year. This is a guideline, so if you need a couple extra days, that's not a problem. 
+
+We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re not left in the lurch.
+
+We don't track sick days either. If you're under the weather, take the time you need to feel better. We encourage you to plan in advance and not wait till November or December since there is a high probability that you will get tied in some project.
 
 ### Short-term Disability
 On top of Paid Time Off, Creative Chaos offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and are unable to work because of it, let us know and you can take 30 days off at 100% pay. If after that, you're still unable to work, our STD policy kicks in and you'll continue to earn 50% of your pay until you're better, up to 3 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If after this period of time, you still cannot work, talk to UA and we can discuss options.
 
-### Education Benefit
-We cover 100% educational expenses for all the children of our **custodial staff**. Admin requires proof of tuition and expenses. Books and supplies are all covered. 
-
-### Trainings
-During the year, we encourage you to find trainings that will help you professionally. We cover 75% of all training costs. If you need to buy books or access to any online courses, we cover 100% for a maximum limit of 20k per year.
-
 ### Office Timings
-We care about getting things done. And we trust you with how you organize yourself. As long as your times are in sync with your team and you are putting in around 8 hours everyday - you should be ok. If your work requires you to have a couple of hours of overlap with our remote teams or geographically dispersed clients, you may find yourself coming in a little early; or staying back a little late. You make the call on how you will handle this. We leave it up to you to decide what times work best for you. 
-
-Most teams work: 11:00am to 8:00pm with a 1 hour lunch break. 
-
-BSD works: 9:30am to 6:30am with a 1 hour lunch break.
-
-### Transportation
-We provide transportation to all our associates through our office vans. In the event that our vans do not go to your route; we give a standard fuel allowance of Rs.3500/-. If your home is far, we calculate the distance and reimburse you accordingly. **[TODO: Get more specific info]**. Transportation is provided to our interns as well.
-
-### After-office hours transport
-If you are working late, or have to come to work on the weekends, our admin team helps you get you a ride home through our office vans or by arranging a paid-for taxi. 
-
-### After-office hours meals
-In addition to our after-office hours transport; if you are working late, or have to come to work on weekend; we reimburse you for your meals.**[Todo = get the math for this here]**
+We care about getting things done. And we trust you with how you organize yourself. As long as your times are are in sync with your team and are putting in around 8 hours everyday - you should be ok. If your work requires you to have a couple of hours of overlap with our remote teams or geographically dispersed clients, you may find yourself coming in a little early; or staying back a little late. You make the call on how you will handle this. We leave it up to you to decide what times work best for you.  Generally 8:30am - 4:30pm works well all year around in US. 
 
 ### Sabbatical
 Every five years, associates are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably six months in advance, so we can coordinate with the client and manage the work-load accordingly.
