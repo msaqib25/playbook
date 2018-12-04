@@ -56,8 +56,7 @@ We want to present the client, the problem / business case, the technology, the 
 
 A calender is maintained in a google doc for Demo Day.
 
-Team leads are expected to review open slots and [sign up](https://docs.google.com/spreadsheets/d/1F25ogetFbGa592Q4Zr0LhyMD3aOa26fUl32-9yy8eFc/edit?usp=sharing
-) in advance.
+Team leads are expected to review open slots and [sign up](https://docs.google.com/spreadsheets/d/1F25ogetFbGa592Q4Zr0LhyMD3aOa26fUl32-9yy8eFc/edit?usp=sharing) in advance.
 
 Each member of the team is expected to be involved in preparing and presenting. We want everyone to cover an area in the presentation. The lead should use this as an opportunity to get other members in their team to take ownership and keep their own time on the floor limited. 
 
@@ -128,7 +127,12 @@ Showdown is broadcasted on zoom.
 
 ## Yearly
 ### Company Annual Meetup
-**TODO**
+Every year we have an annual meetup in Karachi since this is where we have the most associates. 
+The Annual meetup is usually in a banquet hall over hi-tea or dinner. We typically have this event in Jul / Aug.
+
+The agenda is to go over company performance, highlight any significant achievements and honor any extra-ordinary performers.
+
+For Associates not in Karachi: Unfortunately we cannot fly you down for this (maybe in the future); however, for now, you will participate via Zoom. We will also have you all go out for a nice dinner as a team.
 
 ## Random
 ### Lunch with UA & SH
