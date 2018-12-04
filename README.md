@@ -30,7 +30,7 @@ This is where everything begins. Our reason for existance, what we do, what we s
 
 [Benefits & Perks](benefitsperks.md) **80%**
 
-[Our Rituals](ourrituals.md) **95%**
+[Our Rituals](ourrituals.md)
 
 [Our Culture](ourculture.md) **WIP**
 
