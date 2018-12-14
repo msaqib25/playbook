@@ -2,8 +2,11 @@
 
 Here are the things that you most care about on Day 1.
 
+## Welcome Kit
+**[Todo: What all is in the welcome kit?]
+
 ## Access Card
-In your welcome packet, you should receive a temporary access card. This allows you to get in and out of the office. Do not share your access card with anyone. If you lose it, you can get a replacement for Rs. XX. Our Network team is responsible for getting these cards for you. Ping them on Slack in a few days on when you will receive yours.
+In your welcome packet, you should receive a temporary access card. This allows you to get in and out of the office. Do not share your access card with anyone. If you lose it, you can get a replacement for Rs. 200. Our HR team is responsible for getting these cards for you. Ping them on Slack in a few days on when you will receive yours.
 
 ## Desk Space
 Our Network & Systems team is responsible for allocating a desk space for you. The assignment is made based on a discussion with your supervisor. 
@@ -31,11 +34,11 @@ We extensively use Slack for all our communications. Go over our [chapter on Sla
 
 ## Other Logins
 In order to access various services, Network & Systems team 
-_[TODO: This needs to be fleshed out in detail with Network Team.
+**[TODO: This needs to be fleshed out in detail with Network Team.
 Helpdesk
 Tracker
 Others
-]_
+]
 
 
 ## HelpDesk
@@ -50,7 +53,7 @@ You will need to setup your environment based on the project / unit that you are
 ## Probationary Assessment
 We want to make sure you start becoming a productive member of the team as quickly as possible.
 We take the first 3 days, the first 15 days and the first 45 days very seriously. 
-_[TODO: This needs to be fleshed out in detail with HR]_
+**[TODO: This needs to be fleshed out in detail with HR]
 
 ## Attendance
 We track when you come in and when you leave using our biometric attendance machine. You need to get your thumbprints registered. HR should be able to help organize this for you. Ping them on the #help-hr channel if this has not yet been taken care of. Read our Office Timings and Attendance chapter so you understand our policy.
