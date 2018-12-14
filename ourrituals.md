@@ -42,7 +42,7 @@ Lunch & Learn is an opportunity for us to learn something new every week. Each w
 Everyone in the company is encouraged to create a topic (any topic) and put their name on the [shared google sheet](https://docs.google.com/spreadsheets/d/1F25ogetFbGa592Q4Zr0LhyMD3aOa26fUl32-9yy8eFc/edit?usp=sharing)
 
 Notes:
-- Lunch & learn is generally organized in the basement conference room.
+- Lunch & learn is generally organized in the main office conference room.
 - Since space is limited, only 15 people can attend lunch & learn in person. An email goes out the week of Lunch and Learn for signups.
 - We order Pizza for the people in the conference room.
 - Everyone else can join the session via Zoom.
@@ -108,8 +108,14 @@ The objective of the townhall is
 
 
 ### Supervisors Feedback
-Our culture of high performance is based on honesty and courage. We want to tell our supervisors what is working well and where we want them to improve. As an institutional practice, every quarter we provide honest feedback to our supervisors & managers. This is not a performance appraisal. This is feedback to help improve our colleagues who are responsible for us.
+Our culture of high performance is based on honesty and courage. We want to tell our supervisors what is working well and where we want them to improve. As an institutional practice, every quarter we provide honest feedback to our supervisors & managers. This is not a performance appraisal. This is feedback to help improve our colleagues who are responsible for us. Feedback forms go out in Dec, Mar, Jun & Sep.
 
+### Supervisor Self-Assessment
+Managing people is not easy and we all make mistakes every day. These mistakes end up costing us in team morale, quality, deliveries or over-all job satisfaction.
+
+In order to minimize our mistakes and to course correct; our supervisors do a self-assessment of their leadership every quarter. This helps them become aware of the areas that their team is always thinking about and judging them by. Supervisors self-assess their work in Dec, Mar, Jun & Sep.
+
+We share selected answers with the associates to help them understand the perspective of their leads and how they are thinking about improving themselves. 
 
 ### Intrapreneurship Showdown (Shark-tank style)
 To encourage intrapreneurship at Creative Chaos, every quarter we host a shark tank style session where 3 associate pitch ideas. Ideas can either be around new business opportunities or how to improve something at Creative Chaos.
