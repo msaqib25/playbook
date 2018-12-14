@@ -6,6 +6,9 @@ Health insurance is provided through Allianz to all associates. We have 3 differ
 ### Life Insurance
 We provide life insurance for all associates through Allianz. **[Todo: Details on how much]**
 
+### Provident Fund
+We maintain a provident fund for all our associates. **[Todo: Details on fund and how its managed]**
+
 ### Paid Time Off
 Creative Chaos offers 2 weeks of paid vacation, 7 sick days to use at your discretion, and the standard national holidays every year. If you need to take a personal day, they first gets deducted from your sick days and then from your paid vacation. Vacations do not carry-forward to the next year. Use them or lose them. We encourage you to plan in advance and not wait till November or December since there is a high probability that you will get tied in some project.
 
@@ -21,15 +24,15 @@ During the year, we encourage you to find trainings that will help you professio
 ### Office Timings
 We care about getting things done. And we trust you with how you organize yourself. As long as your times are in sync with your team and you are putting in around 8 hours everyday - you should be ok. If your work requires you to have a couple of hours of overlap with our remote teams or geographically dispersed clients, you may find yourself coming in a little early; or staying back a little late. You make the call on how you will handle this. We leave it up to you to decide what times work best for you. 
 
-Most teams work: 11:00am to 8:00pm with a 1 hour lunch break. 
+Most teams work: 11:00am to 8:00pm with a 1 hour lunch break between 1pm-3pm. 
 
-BSD works: 9:30am to 6:30am with a 1 hour lunch break.
+BSD works: 9:30am to 6:30am with a 1 hour lunch break between 1pm-3pm.
 
 ### Transportation
 We provide transportation to all our associates through our office vans. In the event that our vans do not go to your route; we give a standard fuel allowance of Rs.3500/-. If your home is far, we calculate the distance and reimburse you accordingly. **[TODO: Get more specific info]**. Transportation is provided to our interns as well.
 
 ### After-office hours transport
-If you are working late, or have to come to work on the weekends, our admin team helps you get you a ride home through our office vans or by arranging a paid-for taxi. 
+If you are working late, or have to come to work on the weekends, our admin team helps you get you a ride home through our office vans or by arranging a paid-for taxi.
 
 ### After-office hours meals
 In addition to our after-office hours transport; if you are working late, or have to come to work on weekend; we reimburse you for your meals.**[Todo = get the math for this here]**
