@@ -43,6 +43,10 @@ Every five years, associates are eligible to take a one-month-long paid sabbatic
 ### Parental Leave
 When you welcome a new child (birthed or adopted), Creative Chaos encourages you to take up to 12 weeks leave for primary caregivers and up to 4 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 4 weeks leave unpaid.
 
+### French Beach Hut
+We have a hut on French beach in Karachi for the use of all associates. The calendar is maintained by Admin **[Todo: Move it to a google calendar]**. You encourage you to use the hut to organize small team or family beach outings. Weekends are always in high demand; so planning a day out during the week and taking a day off is not a bad idea. There are rules around hut usage that you should make yourself familiar with. **[Todo: Link to terms]** 
+
+
 ### Profit Sharing
 From 2019, Creative Chaos will start offering profit sharing to its employees. The system is based on two questions at the end of every year...
 1. Was this year our most profitable year ever?
